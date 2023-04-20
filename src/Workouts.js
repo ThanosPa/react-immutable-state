@@ -13,6 +13,7 @@ export const initialWorkouts = [
     sets: 20,
     done: false
   },
+  
 ]
 
 const exercises = [
